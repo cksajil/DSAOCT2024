@@ -12,7 +12,7 @@ DSA OCT 2024 Participants
 6.
 7.
 8.
-9.
+9. Jishnu Unni C
 10. Jyothy Das
 11.
 12.
