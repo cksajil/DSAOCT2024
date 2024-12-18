@@ -3,7 +3,8 @@ A sample Python project showcasing best practices
 
 DSA OCT 2024 Participants
 
-1.
+
+1. Adithya Krishnan C
 2. Anjana C
 3.
 4.
@@ -12,7 +13,7 @@ DSA OCT 2024 Participants
 7.
 8.
 9.
-10...
+10. Jyothy Das
 11.
 12.
 13.
@@ -29,7 +30,7 @@ DSA OCT 2024 Participants
 22.
 23.
 24.
-25.
+25.swaraj gopal
 26.
 27. Afidh S Muhammed
 26. Vishnu Premji
