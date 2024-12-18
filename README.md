@@ -3,7 +3,7 @@ A sample Python project showcasing best practices
 
 DSA OCT 2024 Participants
 
-1.
+1.Adithya Krishnan C
 2.
 3.
 4.
