@@ -6,7 +6,7 @@ DSA OCT 2024 Participants
 
 1. Adithya Krishnan C
 2. Anjana C
-3.
+3. Archana T Dharan
 4.
 5.
 6.
