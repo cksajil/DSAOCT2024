@@ -20,7 +20,7 @@ DSA OCT 2024 Participants
 14.
 15.
 16.
-17.
+17. Niranjana krishna BJ
 18.
 19.
 20.
@@ -30,10 +30,13 @@ DSA OCT 2024 Participants
 22.
 23.
 24.
-25.
+25. swaraj gopal
 26.
 27. Afidh S Muhammed
 26. Vishnu Premji
 27.
+28. Adita Anil
+29.
 28.
+29. Gouri B
 29.
