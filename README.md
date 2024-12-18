@@ -11,6 +11,8 @@ DSA OCT 2024 Participants
 5.
 6.
 7.
+8. Jemima I V
+9.
 8.
 9. Jishnu Unni C
 10. Jyothy Das
