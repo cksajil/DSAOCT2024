@@ -35,5 +35,7 @@ DSA OCT 2024 Participants
 27. Afidh S Muhammed
 26. Vishnu Premji
 27.
+28. Adita Anil
+29.
 28.
 29.
