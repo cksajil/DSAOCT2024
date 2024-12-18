@@ -21,7 +21,7 @@ DSA OCT 2024 Participants
 13. Meenu P V
 14.
 15.
-16.
+16. Nayana C K
 17. Niranjana krishna BJ
 18.
 19.
