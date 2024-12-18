@@ -12,7 +12,7 @@ DSA OCT 2024 Participants
 7.
 8.
 9.
-10.
+10. Jyothy Das
 11.
 12.
 13.
