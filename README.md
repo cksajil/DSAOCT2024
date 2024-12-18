@@ -25,7 +25,7 @@ DSA OCT 2024 Participants
 17. Niranjana krishna BJ
 18.
 19.
-20.S Muhammed
+20. S Muhammed
 21. Sagar S
 20. 
 21.
