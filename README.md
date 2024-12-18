@@ -30,7 +30,7 @@ DSA OCT 2024 Participants
 22.
 23.
 24.
-25.swaraj gopal
+25. swaraj gopal
 26.
 27. Afidh S Muhammed
 26. Vishnu Premji
