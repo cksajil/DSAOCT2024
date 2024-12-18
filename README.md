@@ -20,7 +20,7 @@ DSA OCT 2024 Participants
 14.
 15.
 16.
-17.
+17. Niranjana krishna BJ
 18.
 19.
 20.
