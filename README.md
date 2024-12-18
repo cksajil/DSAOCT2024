@@ -22,6 +22,8 @@ DSA OCT 2024 Participants
 17.
 18.
 19.
+20.
+21.Sagar S
 20.S Muhammed
 21.
 22.
@@ -30,7 +32,7 @@ DSA OCT 2024 Participants
 25.
 26.
 27.Afidh S Muhammed
-26. Vishnu Premji
+26.Vishnu Premji
 27.
 28.
 29.
