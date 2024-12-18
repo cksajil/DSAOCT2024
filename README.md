@@ -18,7 +18,7 @@ DSA OCT 2024 Participants
 13.
 14.
 15.
-16.
+16. Nayana C K
 17.
 18.
 19.
